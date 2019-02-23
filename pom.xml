@@ -3,4 +3,12 @@
   <groupId>com.uns.ch.rex.projects.starter</groupId>
   <artifactId>rex-starter</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <!-- https://mvnrepository.com/artifact/org.jdesktop/beansbinding -->  
+  <dependencies>
+  	<dependency>
+  		<groupId>org.jdesktop</groupId>
+   		<artifactId>beansbinding</artifactId>
+    	<version>1.2.1</version>
+  	</dependency>
+  </dependencies>
 </project>
