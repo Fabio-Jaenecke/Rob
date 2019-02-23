@@ -1,4 +1,4 @@
-package app;
+package com.uns.ch.rex.projects.starter;
 
 /*
  * Copyright (c) 1995, 2008, Oracle and/or its affiliates. All rights reserved.

@@ -1,4 +1,4 @@
-package app;
+package com.uns.ch.rex.projects.starter;
 import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;

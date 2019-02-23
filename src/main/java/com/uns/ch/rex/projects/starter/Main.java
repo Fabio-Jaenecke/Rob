@@ -1,4 +1,4 @@
-package app;
+package com.uns.ch.rex.projects.starter;
 import java.awt.BorderLayout;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;

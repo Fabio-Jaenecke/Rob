@@ -1,4 +1,4 @@
-package app;
+package com.uns.ch.rex.projects.starter;
 
 /**
  * @author Fabio Jaenecke (Unisys (Schweiz) GmbH)

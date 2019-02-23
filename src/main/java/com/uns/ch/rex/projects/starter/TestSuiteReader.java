@@ -1,4 +1,4 @@
-package app;
+package com.uns.ch.rex.projects.starter;
 
 import java.io.BufferedReader;
 import java.io.File;
