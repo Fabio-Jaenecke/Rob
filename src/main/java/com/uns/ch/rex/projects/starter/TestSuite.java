@@ -1,7 +1,7 @@
 package com.uns.ch.rex.projects.starter;
 
 /**
- * @author Fabio Jaenecke (Unisys (Schweiz) GmbH)
+ * @author Fabio Jaenecke
  * @version 1.0
  *
  */

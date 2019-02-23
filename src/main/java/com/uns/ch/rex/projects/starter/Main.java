@@ -10,7 +10,7 @@ import javax.swing.JMenuBar;
 import javax.swing.JMenuItem;
 
 /**
- * @author Fabio Jaenecke (Unisys (Schweiz) GmbH)
+ * @author Fabio Jaenecke
  * @version 1.0
  *
  */

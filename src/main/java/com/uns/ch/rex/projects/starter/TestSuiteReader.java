@@ -4,7 +4,7 @@ import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileReader;
 import java.io.IOException;
-import app.TestSuite;
+import com.uns.ch.rex.projects.starter.TestSuite;
 
 public class TestSuiteReader {
 	TestSuite testsuite = new TestSuite();
